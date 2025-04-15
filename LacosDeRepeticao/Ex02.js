@@ -3,7 +3,7 @@
 var prompt = require('prompt-sync')();
 
 
-let soma =0;
+let soma = 0;
 let num = Number(prompt("Digite um número"));
 
 
